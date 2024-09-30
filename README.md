@@ -25,4 +25,4 @@ This is a Python-based Email Sender application that allows users to send emails
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vijayvarma115/gamilproject.git
+   git clone https://github.com/Vijayvarma115/gmailproject.git
